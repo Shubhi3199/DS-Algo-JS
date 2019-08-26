@@ -31,6 +31,7 @@ function pyramid(n,row=0, level='') {
         }else{
             add =' ';
         }
+
         pyramid(n, row, level + add);
 
 
