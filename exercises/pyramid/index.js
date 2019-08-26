@@ -36,7 +36,7 @@ function pyramid(n,row=0, level='') {
 
 
 }
-
+module.exports = pyramid;
 
 
 //
@@ -55,4 +55,4 @@ function pyramid(n,row=0, level='') {
 //     }
 // }
 
-module.exports = pyramid;
+
